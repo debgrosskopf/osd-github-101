@@ -79,4 +79,4 @@ Portions of text derived from the [Django Code of Conduct](https://www.djangopro
 
 Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
 
- 
+This is a test of the coding 
